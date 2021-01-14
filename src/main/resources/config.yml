@@ -1,0 +1,32 @@
+server:
+  rootPath: '/api/*'
+  applicationConnectors:
+    - type: http
+      port: 9951
+      acceptorThreads: 1
+      selectorThreads: 8
+  adminConnectors:
+    - type: http
+      port: 9952
+      acceptorThreads: 1
+      selectorThreads: 8
+  maxThreads: 256
+  gzip:
+    enabled: true
+    bufferSize: 20KB
+  requestLog:
+    appenders:
+      - type: console
+        timeZone: Asia/Kolkata
+        threshold: ALL
+        logFormat: '%h [%date{ISO8601}] "%r" %s %b %D [%i{User-Agent}]'
+      - type: file
+        threshold: ALL
+        maxFileSize: 100MB
+        timeZone: Asia/Kolkata
+        currentLogFilename: /var/log/flipkart/address-intelligence/access.log
+        archivedLogFilenamePattern: /var/log/flipkart/address-intelligence/access.%i.log
+        archivedFileCount: 1
+
+firstName: "John"
+lastName: "Doe"
