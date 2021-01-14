@@ -1,0 +1,8 @@
+AppConfiguration.class
+Manager/PersonManager.class
+PersonApp.class
+Module/PersonModule.class
+Health/AppHealthCheck.class
+Pojo/Person.class
+Manager/IPersonManager.class
+Resource/PersonResource.class

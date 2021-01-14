@@ -1,5 +1,8 @@
-/Users/abhinav.mjain/Downloads/DropWizardApp/src/main/java/Health/AppHealthCheck.java
-/Users/abhinav.mjain/Downloads/DropWizardApp/src/main/java/AppConfiguration.java
-/Users/abhinav.mjain/Downloads/DropWizardApp/src/main/java/Pojo/Person.java
-/Users/abhinav.mjain/Downloads/DropWizardApp/src/main/java/PersonApp.java
-/Users/abhinav.mjain/Downloads/DropWizardApp/src/main/java/Resource/PersonResource.java
+/Users/abhinav.mjain/Documents/PersonalGIT/DropWizardApp/src/main/java/Pojo/Person.java
+/Users/abhinav.mjain/Documents/PersonalGIT/DropWizardApp/src/main/java/Health/AppHealthCheck.java
+/Users/abhinav.mjain/Documents/PersonalGIT/DropWizardApp/src/main/java/AppConfiguration.java
+/Users/abhinav.mjain/Documents/PersonalGIT/DropWizardApp/src/main/java/Module/PersonModule.java
+/Users/abhinav.mjain/Documents/PersonalGIT/DropWizardApp/src/main/java/PersonApp.java
+/Users/abhinav.mjain/Documents/PersonalGIT/DropWizardApp/src/main/java/Manager/IPersonManager.java
+/Users/abhinav.mjain/Documents/PersonalGIT/DropWizardApp/src/main/java/Manager/PersonManager.java
+/Users/abhinav.mjain/Documents/PersonalGIT/DropWizardApp/src/main/java/Resource/PersonResource.java
